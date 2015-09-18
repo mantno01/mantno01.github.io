@@ -10,7 +10,9 @@ section.low {background-color:gray;
 section.done {background-color: black;
               color:cyan;}
 section {
-          border: size=2px;
+          border: 5px color:solid black;
+          height:200px;
+          width:300px;
   
 }
 h2 {
