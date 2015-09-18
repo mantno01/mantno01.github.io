@@ -8,5 +8,17 @@ section.low {background-color:gray;
              color: black;
 }
 section.done {background-color: black;
-              color:cyan;
+              color:cyan;}
+section {
+          border: size=2px;
+  
 }
+h2 {
+    margin:0;
+}
+ul
+{
+  margin-bottom: 0;
+}
+
+
