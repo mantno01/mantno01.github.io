@@ -4,8 +4,8 @@
   .high {color: #FF4D4D;}
   .finished {text-decoration: line-through;}
   h1{color: #FF4D94;}
-  section{background-color:(#9494FF);
   body {background-image: url(http://thumbs.dreamstime.com/x/seamless-mosaic-radial-teal-blue-background-21790623.jpg);
-        font-family: helvetica;
+        font-family: helvetica;}
+  section{background-color:(#9494FF)};
         
-  }
+  
