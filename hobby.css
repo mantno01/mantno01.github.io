@@ -31,6 +31,12 @@ nav>h2{
   display: inline;
   margin: 20px;
 }
+a{
+  color: #6C6D80;
+}
+a:hover{
+  color: 2C2E6F;
+}
 
 
 
