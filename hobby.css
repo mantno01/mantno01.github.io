@@ -26,6 +26,7 @@ nav{
   position: fixed;
   top: 0;
   text-align: center;
+  background-color: #b4b5d5;
 }
 nav>h2{
   display: inline;
