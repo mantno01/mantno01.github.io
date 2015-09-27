@@ -1,8 +1,11 @@
-article.left{
-  width: 50%;
+#left{
+  width: 40%;
   float: left;
 }
-article.right{
-  width: 50%;
-  float: left;
+#right{
+  width: 40%;
+  float: right;
+}
+article{
+  margin: 20px;
 }
