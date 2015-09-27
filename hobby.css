@@ -1,5 +1,5 @@
 div{
-  float: left;
+  float: right;
   color: #536A7C;
 }
 body{
@@ -10,6 +10,9 @@ h1{
 }
 h5{
   color: #6868A3;
+}
+p{
+  
 }
 
 
