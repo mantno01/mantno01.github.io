@@ -2,3 +2,7 @@ header
   text-alignment: center;
 #Task_Input
   position: inline;
+main
+  height: 500px;
+  width: 1000px;
+  background-color: lavender;
