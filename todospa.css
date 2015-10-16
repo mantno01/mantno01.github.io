@@ -1,8 +1,11 @@
-header
+header{
   text-alignment: center;
-#Task_Input
+}
+#Task_Input{
   position: inline;
-main
+}
+main{
   height: 500px;
   width: 1000px;
-  background-color: lavender;
+  background-color: #b4b5d5;
+}
