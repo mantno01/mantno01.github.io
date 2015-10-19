@@ -1,4 +1,4 @@
-<script>
+
 add_task = function() {
   var main;
   var list;
@@ -12,4 +12,4 @@ add_task = function() {
   
 
 }
-</script>
+
