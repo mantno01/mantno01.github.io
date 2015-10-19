@@ -1,9 +1,10 @@
 add_task = function() {
   var main=document.querySelector("main")
-  ul=document.createElement("ul")
-  list=document.createElement("li")
-  main.appendChild(ul)
-  ul.appendChild(li)
+  var list=document.querySelector("ul")
+  item=document.createElement("li")
+  ul.appendChild(item)
+  test=document.createTextNode(this is a test)
+  item.appendChild(test)
   
   
 
