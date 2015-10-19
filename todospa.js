@@ -6,7 +6,7 @@ add_task = function() {
   list=document.querySelector("#myList");
   item=document.createElement("li");
   test=document.createTextNode("this is a test");
-  ul.appendChild(item);
+  list.appendChild(item);
   item.appendChild(test);
   
   
