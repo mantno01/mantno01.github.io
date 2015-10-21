@@ -1,11 +1,20 @@
 header{
-  text-alignment: center;
-}
-#Task_Input{
-  position: inline;
-}
-main{
-  height: 500px;
-  width: 1000px;
-  background-color: #b4b5d5;
-}
+     text-alignment: center;
+         }
+   #Task_Input{
+     position: inline;
+               }
+  main{
+     height: 500px;
+     width: 1000px;
+     background-color: #b4b5d5;
+      }
+  .Low{
+     color: yellow;
+      }
+  .Medium{
+     color: orange;
+         }
+  .High{
+     color: red;
+       }
