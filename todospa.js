@@ -32,6 +32,7 @@ add_task = function() {
     else{
      this.parentNode.classList.remove("done");
      }
+  localSave("myList");
 }
   
 
