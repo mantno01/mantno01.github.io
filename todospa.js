@@ -23,6 +23,8 @@ add_task = function() {
   list.appendChild(item);
   item.appendChild(check);
   item.appendChild(text);
+  
+  localSave("myList");
 }
 
   done_task = function(){
