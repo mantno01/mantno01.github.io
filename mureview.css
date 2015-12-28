@@ -12,4 +12,5 @@ nav>h3{
 }
 nav>iframe{
   display: inline;
+  float: left;
 }
